@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.duonghv11</groupId>
-    <artifactId>movie-data-service</artifactId>
+    <artifactId>rating-data-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>movie-data-service</name>
+    <name>rating-data-service</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

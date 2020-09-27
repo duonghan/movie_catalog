@@ -1,4 +1,4 @@
-package io.duonghv11.moviedataservice;
+package io.duonghv11.ratingsdataservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package io.duonghv11.moviedataservice;
+package io.duonghv11.ratingsdataservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

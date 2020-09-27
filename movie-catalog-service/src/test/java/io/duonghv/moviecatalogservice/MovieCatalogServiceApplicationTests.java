@@ -1,4 +1,4 @@
-package io.duonghv11.moviecatalogservice;
+package io.duonghv.moviecatalogservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
